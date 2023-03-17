@@ -1,2 +1,2 @@
 # Dontgoogleme.github.io
-How to I Degooglelize my self
+How I Degooglelize my self
