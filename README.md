@@ -17,6 +17,18 @@ Be aware to check all your devices, even your car or television.
 At the beginning of my journey my first thoughts were about my phone because is a big source of data collection. My phone is a Pixel which is a Google phone, it may sounds ironic but Pixels are the best phone for install custom roms, because are studied as developer devices. 
 I switched from a factory Google rom to a lineageOS rom with the gapps (the small package of gapps that i found with only the basics) installed, i was not ready to live without Big G. Right now I'm using a CalixOS with microG installed, so I don't have Google services.
 After installing a custom rom, I started to look after all the apps, finding FOSS apps and alternatives to all the apps that I was using with trackers, ads and proprietary software.
-I have to sai that it's a long path, and today I'm still looking to replace some apps.
-You can find about all the apps that have been replaced from the beginning in F-Droid, 
+I have to say that it's a long path, and today I'm still looking to replace some apps.
+You can find about all the apps that have been replaced from the beginning in F-Droid, for my experience the store made of only FOSS apps.
+At first my concerne were at the Gapps so I made a backup of all my data with Google takeout (an useful tool that gives you a backup of all services you want and you use in Google, you can even schedule some periodical tasks), so in case of deleting the wrong thing you can restore the files that you need, and then I made a new secure private email with Protonmail.
+
+###Google account
+Here there are many things to delete, to regain control and aknowledge: all the researches (and more) that you made in the Google are here: Maps, Gmail, Youtube etc. I deleted almost all my activity, from position that I visited in with Gmaps active to videos watched. 
+Then I
+
+###Gmail
+I deleted all the emails (sent, reiceived, stored), changed all subscription (newsletters, bank, and any account where my preferred email was the one with Google), then setted that all the inbox mail will be forwarded through my Protonmail address, with this method you can't lose some important comunication (where you should change your contacts) and you don't need to login in Google and use Gmail app. If you need to have your gmail sincronized on your smartphone a good trade is use a FOSS app like K-9 mail or FairMail.
+
+###
+
+
 
