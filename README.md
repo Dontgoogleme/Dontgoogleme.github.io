@@ -18,5 +18,5 @@ At the beginning of my journey my first thoughts were about my phone because is 
 I switched from a factory Google rom to a lineageOS rom with the gapps (the small package of gapps that i found with only the basics) installed, i was not ready to live without Big G. Right now I'm using a CalixOS with microG installed, so I don't have Google services.
 After installing a custom rom, I started to look after all the apps, finding FOSS apps and alternatives to all the apps that I was using with trackers, ads and proprietary software.
 I have to sai that it's a long path, and today I'm still looking to replace some apps.
-About all the apps that are now installed on my android phone are
+You can find about all the apps that have been replaced from the beginning in F-Droid, 
 
